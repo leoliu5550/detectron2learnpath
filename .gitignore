@@ -1,0 +1,5 @@
+*.jpg
+*.zip
+*.txt
+token
+.ipynb_checkpoints/token-checkpoint
